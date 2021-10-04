@@ -69,8 +69,7 @@ Learn about -
    Create UI for Calculator App
 
    **Example -**
-
-   [https://lh4.googleusercontent.com/4NqCmo9isMRH-2gC5X1KssvgzXdJ3ooVf148EqKz7OKWhTnD9GI5sKGTBIRMMHFjSK5tyo5ytQw7Pi88JHCLr81q2Q-3rjRTr_R6924vIAji6Of1UL58Vext0Pczoi-t9ufY3BVD=s0](https://lh4.googleusercontent.com/4NqCmo9isMRH-2gC5X1KssvgzXdJ3ooVf148EqKz7OKWhTnD9GI5sKGTBIRMMHFjSK5tyo5ytQw7Pi88JHCLr81q2Q-3rjRTr_R6924vIAji6Of1UL58Vext0Pczoi-t9ufY3BVD=s0)
+![Calculator Pic](Images/cal.png)
 
 ## Level 3 -
 
@@ -99,7 +98,7 @@ Get Input on the first screen and display output on the second screen using Inte
 
 **Example -**
 
-[https://lh3.googleusercontent.com/cO2Vekq0k3nCb73HK4TN5Uv413TKxSoeExs-QV9sTe2hgTTDTd50O6a5HYy1wax_VVTTzt4FXrA-NdF_vG6wSCrBQYtd-T9HUp1VORah6h8MnaHp6IlBI8qQWCanxxFoRpXYIFz5=s0](https://lh3.googleusercontent.com/cO2Vekq0k3nCb73HK4TN5Uv413TKxSoeExs-QV9sTe2hgTTDTd50O6a5HYy1wax_VVTTzt4FXrA-NdF_vG6wSCrBQYtd-T9HUp1VORah6h8MnaHp6IlBI8qQWCanxxFoRpXYIFz5=s0)
+![Intents](Images/intent.png)
 
 > Tip  - Try to create better UI
 

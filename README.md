@@ -1,6 +1,6 @@
 # Start-Kotlin
 
-## LEVEL ONE -
+## LEVEL 1 -
 
    [Kotlin](https://kotlinlang.org/) is a simple programming language that can be easily read and understood. It automatically infers the type of variables. Kotlin was fun to learn so give it a try if you haven’t started.
 
@@ -102,7 +102,7 @@ Get Input on the first screen and display output on the second screen using Inte
 
 > Tip  - Try to create better UI
 
-# Level 4
+## Level 4
 
 1. **JSON -**
 
